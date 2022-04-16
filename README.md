@@ -3,9 +3,9 @@
 Built in Python3, this script scrapes stock ticker data using Alpha Vantage's API and displays it for the user to observe
 
 ### Built with
-* Pandas
-* AlphaVantage
-* Time
+* [Pandas](https://pandas.pydata.org)
+* [AlphaVantage](https://www.alphavantage.co)
+* [Time](https://docs.python.org/3/library/time.html)
 
 ### Features
 * Returns minute per minute ticker data for any given stock listed on any stock exchange 
